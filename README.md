@@ -71,9 +71,9 @@
 
 ### 📫 Let's Connect
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourname](#)
-- **Facebook:** [facebook.com/yourprofile](#)
+- **Email:sazolpaul2006@gmail.com
+- **LinkedIn:
+- **Facebook:
 
 ---
 
