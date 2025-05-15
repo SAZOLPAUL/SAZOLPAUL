@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAZOL-PAUL&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAZOL-PAUL&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAZOLPAUL&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAZOLPAUL&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAZOL-PAUL&theme=gruvbox&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAZOLPAUL&theme=gruvbox&no-frame=true&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 👁️ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAZOL-PAUL&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=SAZOLPAUL&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
